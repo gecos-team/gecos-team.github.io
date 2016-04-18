@@ -12,6 +12,11 @@ body {
     padding: 15px 0;
 }
 
+.navbar-brand {
+    margin-top: 5px;
+    margin-right: 25px;
+}
+
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
