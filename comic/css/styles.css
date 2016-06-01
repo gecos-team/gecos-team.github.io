@@ -1,0 +1,12 @@
+body{
+ font-family: Helvetica;
+}
+footer{
+  text-align: right;
+  font-size: 10px;
+  color: #BBBBB;
+}
+
+a {
+  text-decoration: none;
+}
